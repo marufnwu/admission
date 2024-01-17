@@ -1,0 +1,369 @@
+*{
+padding:0;
+margin:0;	
+}
+html, body
+{
+overflow-x:hidden;	
+padding-right:0px !important;
+}/*
+.footer .btn.btn-link
+{
+   pointer-events: none;   
+}
+.alink1
+{
+    pointer-events: none;
+} */
+.ml1
+{
+    margin-left:118px;
+}
+.teachert1
+{
+ text-align: center;
+    font-size: 16px;   
+}
+.enquirycall
+{
+    display:none;
+}
+.teachert2
+{
+ font-size: 14px;  
+}
+.mobileabout
+{
+display:none;	
+}
+.desktopabout
+{
+	display:block;
+}
+.about-m1
+{
+	margin-top:-96px;
+}
+.modal-backdrop.show {
+    opacity: .5;
+    display: none !important;
+}
+.darkyelow
+{
+	background-color:#fdb813 !important;
+}
+.darkred
+{
+	background-color:#8d0005 !important;
+}
+.rounded-circles1
+{
+	border-radius: 5% !important;
+}
+.text-darkr1
+{
+color:#8d0005;	
+}
+
+
+.text-yelow1
+{
+color:#fdb813;	
+}
+
+
+/*** Facility ***/
+.facility-item .bg-img1 {
+   background-image: url(../images/icon-ac2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img1 {
+     background-image: url(../images/icon-ac.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+
+/*** Facility ***/
+.facility-item .bg-img2 {
+   background-image: url(../images/activity-room2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img2 {
+     background-image: url(../images/activity-room.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+
+
+/*** Facility ***/
+.facility-item .bg-img3 {
+   background-image: url(../images/sun-health2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img3 {
+     background-image: url(../images/sun-health.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+
+/*** Facility ***/
+.facility-item .bg-img4 {
+   background-image: url(../images/theatre2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img4 {
+     background-image: url(../images/theatre.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+
+
+/*** Facility ***/
+.facility-item .bg-img5 {
+   background-image: url(../images/splash2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img5 {
+     background-image: url(../images/splash.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+
+/*** Facility ***/
+.facility-item .bg-img6 {
+   background-image: url(../images/cctv2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img6 {
+     background-image: url(../images/cctv.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+
+/*** Facility ***/
+.facility-item .bg-img7 {
+   background-image: url(../images/low-student2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img7 {
+     background-image: url(../images/low-student.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+
+/*** Facility ***/
+.facility-item .bg-img8 {
+   background-image: url(../images/parent-guiding2.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+
+.facility-item:hover .bg-img8 {
+     background-image: url(../images/parent-guiding.png);
+	width:65px;
+	height:65px;
+	display:block;
+}
+.btncolor1
+{
+	background-color:#fdb813;
+	color:#fff;
+}
+.btn-primary:hover {
+    color: #000;
+    background-color: #fdb813 !important;
+    border-color: #fdb813 !important;
+}
+
+.btncolor2
+{
+	background-color:#fff;
+	color:#810000;
+}
+.btncolor2:hover
+{
+	background-color:#810000;
+	color:#fff;
+}
+.text-darkyelow
+{
+color:#fdb813;	
+}
+
+.btncolor1:hover
+{
+    background-color:#810000;
+	color:#fff;
+}
+.modal-content {
+    background-color: #fdb813 !important;
+	border-radius: 1rem !important;
+}
+h5.modal-title.display-5 {
+    text-align: center;
+    display: block;
+    width: 100%;
+}
+
+#circle {
+  width: 260px;
+  height: 260px;
+  background: red;
+  border-radius: 50%;
+  background-image: url(../images/v2/Freedom-to-explore.jpg);
+  display:block;
+  border:8px solid #fccb13;
+  margin: auto;
+}
+
+#square {
+  width: 260px;
+  height: 260px;
+  background: red;
+   background-image: url(../images/v2/safe-&-secure.jpg);
+  display:block;
+  border:8px solid #71d1cc;
+  margin: auto;
+}
+
+#triangle-down {
+      width: 0;
+    height: 0;
+    border-left: 140px solid transparent;
+    border-right: 144px solid transparent;
+    border-top: 275px solid #fdb813;
+    position: relative;
+    top: 0;
+	margin: auto;
+    }
+
+#triangle-down .imgtriangle
+{
+width: 0;
+    height: 0;
+    border-left: 133px solid transparent;
+    border-right: 133px solid transparent;
+    border-top: 251px solid transparent;
+    background-image: url(../images/v2/Modern-features.jpg);
+    display: block;
+    -webkit-clip-path: polygon(50% 100%, 0 0, 100% 0);
+    clip-path: polygon(49% 100%, 0 0, 99% 0);
+    -webkit-mask-size: contain;
+    -webkit-mask-position: center top;
+    -webkit-mask-repeat: no-repeat;
+    position: absolute;
+    top: -266px;
+    left: -131px;	
+}
+.field-error{
+border: 2px solid #890000 !important;
+}
+.sent-notification p:not(.something-went-wrng){
+    color: #103741;
+    text-align: center;
+    padding: 0;
+    margin: 20px;
+    font-size: 18px;
+    border: 2px solid;
+}
+.sent-notification p.something-went-wrng{
+    color: red;
+    text-align: center;
+    padding: 0;
+    margin: 20px;
+    font-size: 18px;
+    border: 2px solid;
+}
+@media screen and (max-width: 2560px) and (min-width: 1921px)
+{
+  .ml1 {
+    margin-left: 660px;
+}  
+}
+
+
+
+@media screen and (max-width: 1920px) and (min-width: 1600px)
+{
+  .ml1 {
+    margin-left: 330px;
+}  
+}
+
+
+@media screen and (max-width: 992px) and (min-width: 168px)
+{
+.about-m1
+{
+	margin-top:0px;
+}
+.desktopabout
+{
+	display:none;
+}
+.mobileabout
+{
+display:block;
+text-align:center;
+}
+.enquirycall 
+{
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #FE5D37;
+    color: #fff;
+    padding: 10px;
+    border:0;
+    z-index:666;
+}
+.enquirycall:hover
+{
+    color:#fff;
+}
+.display-2 {
+    font-size: 24px !important;
+}
+.ml1 {
+    margin-left: 36px;
+}
+}
